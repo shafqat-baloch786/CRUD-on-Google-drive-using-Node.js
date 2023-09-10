@@ -1,4 +1,5 @@
 # CRUD-on-Google-drive-using-Node.js
+# Node.js version: v19.2.0
 #Install all required dependencies for googleapis
 #npm install googleapis@105 @google-cloud/local-auth@2.1.0 --save
 #I didn't add node_modules because this file was too big
